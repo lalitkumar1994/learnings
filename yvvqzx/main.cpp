@@ -1,1 +1,0 @@
-cout << "welcome to cpp";
